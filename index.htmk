@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Shop Acc Roblox</title>
+  <style>
+    body{
+      font-family: Arial;
+      background:#111;
+      color:white;
+      text-align:center;
+    }
+
+    .card{
+      background:#222;
+      padding:20px;
+      margin:20px auto;
+      width:300px;
+      border-radius:10px;
+    }
+
+    button{
+      background:red;
+      color:yellow;
+      border:none;
+      padding:10px 20px;
+      border-radius:5px;
+    }
+  </style>
+</head>
+<body>
+
+<h1>SHOP ACC saloir piece</h1>
+
+<div class="card">
+  <h2>Acc saloir piece lv 5000 </h2>
+  <p>Giá: 20.000đ</p>
+  <button>Mua Ngay</button>
+</div>
+
+</body>
+</html>
